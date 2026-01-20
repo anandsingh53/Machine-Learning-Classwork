@@ -1,1 +1,6 @@
+📊 Data Collection
+📌 Overview
 
+Data Collection is the first and most important step in the Machine Learning pipeline. It involves gathering raw data from various sources, organizing it into a structured format, and preparing it for further processing such as cleaning, analysis, and model training.
+
+In this project, data is collected in CSV format and read using Python and Pandas for further analysis.
